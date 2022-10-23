@@ -1,0 +1,1 @@
+This is a basic recipe website. Nothing fancy, just functional using pure html.
